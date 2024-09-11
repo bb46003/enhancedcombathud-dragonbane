@@ -46,7 +46,13 @@
       "lang": "sv",
       "name": "Svenska",
       "path": "languages/sv.json"
+    },
+    {
+      "lang": "pl",
+      "name": "Polski",
+      "path": "languages/pl.json"
     }
+    
   ],
   "url": "https://github.com/rayners/enhancedcombathud-dragonbane",
   "manifest": "MANIFEST",
